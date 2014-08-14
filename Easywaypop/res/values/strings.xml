@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Easywaypop</string>
+    
+    
+    
+    <string-array name="proyectos">
+        <item >HKLO</item>
+        <item >HJKW</item>
+        <item >ASDE</item>
+        <item >RTEE</item>
+        <item >AWEE</item>
+        <item >RQEE</item>
+        <item >CTEE</item>
+    </string-array>
+
+</resources>
